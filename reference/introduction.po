@@ -217,15 +217,14 @@ msgid "Notation"
 msgstr "Notación"
 
 #: ../Doc/reference/introduction.rst:93
-#, python-format
 msgid ""
 "The descriptions of lexical analysis and syntax use a modified `Backus–Naur "
 "form (BNF) <https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form>`_ "
 "grammar notation.  This uses the following style of definition:"
 msgstr ""
 "Las descripciones del análisis léxico y sintáctico usan una notación "
-"gramatical BNF modificada `Backus–Naur form (BNF) <https://en.wikipedia.org/"
-"wiki/Backus%E2%80%93Naur_form>`_. De tal forma, utilizan el siguiente estilo "
+"gramatical BNF modificada `Backus–Naur form (BNF) <https://es.wikipedia.org/"
+"wiki/Notación_de_Backus-Naur>`_. De tal forma, utilizan el siguiente estilo "
 "de definición:"
 
 #: ../Doc/reference/introduction.rst:101
